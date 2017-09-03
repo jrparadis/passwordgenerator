@@ -9,10 +9,10 @@ words = ['the', 'and', 'for', 'are', 'but', 'not', 'all', 'any', 'can', 'had', '
 
 
 #shoulda used import string, whatever
-allcharsnonpunct = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
-characters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
-lowercase = 'abcdefghijklmnopqrstuvwxyz'
-uppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+allcharsnonpunct = 'abcdefghjkmnpqrstuvwxyzABCDEFGHJKMNPQRSTUVWXYZ1234567890'
+characters = 'abcdefghjkmnpqrstuvwxyzABCDEFGHJKMNPQRSTUVWXYZ'
+lowercase = 'abcdefghjkmnpqrstuvwxyz'
+uppercase = 'ABCDEFGHJKMNPQRSTUVWXYZ'
 numbe = '1234567890'
 punct = '!@#?'
 
